@@ -16,3 +16,10 @@ class Solution {
         return count;
     }
 };
+
+
+
+It is based on x^2+y^2 = r^2
+
+r^2 is length of one side .
+multiply with 4 to get total perimeter.
